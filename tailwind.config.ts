@@ -115,7 +115,8 @@ export default {
 			},
 			boxShadow: {
 				'automotive': 'var(--shadow-automotive)',
-				'card-hover': 'var(--shadow-card)',
+				'card': 'var(--shadow-card)',
+				'card-hover': 'var(--shadow-card-hover)',
 				'glow': 'var(--shadow-glow)'
 			}
 		}
